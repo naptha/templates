@@ -1,7 +1,6 @@
-templates
+Templates
 =========
 
-perceptual hashes of common images
+Perceptual hashes of common images
 
 
-adsfjasdofijasfd
